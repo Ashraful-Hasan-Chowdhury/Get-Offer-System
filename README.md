@@ -1,3 +1,12 @@
+# Get Offer System
+
+Type: Web Application<br>
+Description:<br>
+• It allows users to get the informations of various discounts and offers of nearby shops.<br>
+• Users can search offers category wise.<br>
+• Shopkeepers can login to the system and make several offers, give its ad to system.<br>
+Development Tools: Laravel, PHP, MySQL, Google Map Api, Javascript, JQuery, Vue.js, Html and CSS.<br>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
